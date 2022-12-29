@@ -6,6 +6,6 @@ public class even_Odd {
         System.out.println(isOdd(n)); //print true for odd else false for even;
     }
     static boolean isOdd(int n){
-        return (n&1)==1;
+        return (n&1)==1;  //any number '&' with 1 will be that number only
     }
 }
