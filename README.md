@@ -1,4 +1,4 @@
 # Learning_DataStructuresAndAlgorithm-JAVA
-Data Structures and Algorithm using JAVA
+Data Structures and Algorithm using JAVA with Solved LeetCode.
 
-Solved leetcode solutions is also uploaded.
+
